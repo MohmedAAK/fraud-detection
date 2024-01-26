@@ -1,6 +1,8 @@
 # fraud-detection
 task of fraud detection while explaining the process and logic behind my choices
 
+if the solution and notes are read right, you will get a unique experience with different way to deal with outliers in your data
+
 ### It is better to open the notebook in colab
 
 
