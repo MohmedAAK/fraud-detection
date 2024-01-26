@@ -27,7 +27,4 @@ questions.
 5. What are the key factors that predict fraudulent customers? 
 6. Do these factors make sense? If yes, How? If not, How not? 
 
-those are not considered very related
 
-7. What kind of prevention should be adopted while the company updates its infrastructure?
-9. Assuming these actions have been implemented, how would you determine if they work
